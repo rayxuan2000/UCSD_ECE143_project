@@ -10,7 +10,10 @@ and priority. This enriched dataset can allow us to explore a variety of pattern
 By analyzing this dataset, we aim to identify hotspots for different types of incidents, peak times for calls,
 and potentially uncover any patterns related to specific call types or areas.
 
-Additional Notes: We used the data from 2019 to 2023, which is huge and cannot be uploaded to repo.
+Additional Notes: We used the data from 2019 to 2023, which is huge and cannot be uploaded to repo. You can find detailed information about data from [Dataset information](#jump). 
+
+## <span id="jump">Dataset inforamtion</span>
+
 
 ## File Structure of ECE143_Project.ipynb
 ### Part 0: Initializations and packages import
@@ -18,7 +21,7 @@ Additional Notes: We used the data from 2019 to 2023, which is huge and cannot b
 Install pydrive to load data stored in the Google Drive.
 
 #### Package import
-Import all the package in [Modules that are used](#jump).
+Import all the package in [Modules](#jump).
 
 ### Part 1: Data collection and cleaning
 #### Prepossessing
@@ -42,7 +45,7 @@ Apply above functions to data.
 ## How to run the code
 Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
 
-##   <span id="jump">Modules that are used</span>
+##   <span id="jump">Modules</span>
 * numpy 
 * pandas
 * math
