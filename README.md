@@ -19,7 +19,7 @@ Include a readme file that explains your file structure, how to run your code, a
 Install pydrive to load data stored in the Google Drive.
 
 #### Package import
-Import all the package in [Modules that are used](#my-section).
+Import all the package in [点击跳转](#jump).
 
 ### Part 1: Data collection and cleaning
 
@@ -30,7 +30,7 @@ Import all the package in [Modules that are used](#my-section).
 ## How to run the code
 Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
 
-## Modules that are used {#my-section}
+## Modules that are used  <span id="jump">跳转到的地方</span>
 * numpy 
 * pandas
 * math
