@@ -21,7 +21,7 @@ Additional Notes: We used the data from 2019 to 2023, which is huge and cannot b
 Install pydrive to load data stored in the Google Drive.
 
 #### Package import
-Import all the package in [Modules](#jump).
+Import all the package needed.
 
 ### Part 1: Data collection and cleaning
 #### Prepossessing
@@ -48,7 +48,7 @@ For Map visualization part, if you could not preview it in ECE143_Project.ipynb,
 ## How to run the code
 Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
 
-##   <span id="jump">Modules</span>
+## Modules
 * numpy 
 * pandas
 * math
