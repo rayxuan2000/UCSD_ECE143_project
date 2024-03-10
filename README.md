@@ -13,6 +13,13 @@ and potentially uncover any patterns related to specific call types or areas.
 
 Include a readme file that explains your file structure, how to run your code, and name all third-party modules you are using.
 
+## File Structure
+### Initializations and packages import
+
+### Data collection and cleaning
+
+### Exploratory data analysis and visualization
+
 ## How to run the code
 Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
 
@@ -25,6 +32,6 @@ Our project is based on google colab platform. Just open ECE143_Project.ipynb as
 * seaborn
 * folium
 * IPython.display.display
-* geopy.geocoders. Nominatim
+* geopy.geocoders.Nominatim
 * time
 * collections.Counter
