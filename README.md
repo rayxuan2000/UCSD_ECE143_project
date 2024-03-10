@@ -14,7 +14,7 @@ Additional Notes: We used the data from 2019 to 2023, which is huge and cannot b
 
 ## <span id="jump">Dataset inforamtion</span>
 
-
+![Image Alt Text](https://github.com/rayxuan2000/UCSD_ECE143_project/blob/e7b49164afbe4e7959522b9ca60591bfedec7cb6/additional/data_frame.png)
 ## File Structure of ECE143_Project.ipynb
 ### Part 0: Initializations and packages import
 #### Initialization
