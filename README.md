@@ -42,7 +42,7 @@ Apply above functions to data.
 * Analysis 6: Disposition
 * Analysis pro: Map visualization
 For Map visualization part, if you could not preview it in ECE143_Project.ipynb, then click this HTML file [Open HTML file in new window](additional/map_with_legend.html){:target="_blank"} and see it in a new window.
-
+[Open HTML link in new window](file:///D:/Study%20folder/%E5%87%BA%E5%9B%BD/UCSD/%E9%80%89%E8%AF%BE/ECE%20143%20-%20Programming%20for%20Data%20Analysis/Project/map_with_legend.html){:target="_blank"}
 ## How to run the code
 Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
 
