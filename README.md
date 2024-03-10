@@ -22,7 +22,14 @@ Install pydrive to load data stored in the Google Drive.
 Import all the package in [Modules that are used](#jump).
 
 ### Part 1: Data collection and cleaning
-
+#### Prepossessing
+Store data file id in the dictionary.
+#### File extraction
+Extract all files based on file id and concatenate data as dataframe from 2019 to 2023.
+#### Cleaning functions
+Write functions to do data cleaning such as empty removal, date_time seperation, weekday conversion, etc. 
+#### Data cleaning
+Apply above functions to data.
 
 ### Part 2: Exploratory data analysis and visualization
 
