@@ -14,16 +14,23 @@ and potentially uncover any patterns related to specific call types or areas.
 Include a readme file that explains your file structure, how to run your code, and name all third-party modules you are using.
 
 ## File Structure
-### Initializations and packages import
+### Part 0: Initializations and packages import
+#### Initialization
+Install pydrive to load data stored in the Google Drive.
 
-### Data collection and cleaning
+#### Package import
+Import all the package in [Modules that are used](#my-section).
 
-### Exploratory data analysis and visualization
+### Part 1: Data collection and cleaning
+
+
+### Part 2: Exploratory data analysis and visualization
+
 
 ## How to run the code
 Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
 
-## Modules that are used
+## Modules that are used {#my-section}
 * numpy 
 * pandas
 * math
