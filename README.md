@@ -41,12 +41,11 @@ Apply above functions to data.
 * Analysis 5: Call type and priority
 * Analysis 6: Disposition
 * Analysis pro: Map visualization
-For Map visualization part, if you could not preview it in ECE143_Project.ipynb, then click this HTML file.
+For Map visualization part, if you could not preview it in ECE143_Project.ipynb, then you need to run the code. The result look like below:
+![Image Alt Text](https://github.com/rayxuan2000/UCSD_ECE143_project/blob/e7b49164afbe4e7959522b9ca60591bfedec7cb6/additional/data_frame.png)
 
 ## How to run the code
 Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
-
-[Open HTML file in new window](https://github.com/rayxuan2000/UCSD_ECE143_project/blob/949635ac427848f014965080b830618b5d0fd5e6/additional/map_with_legend.html){:target="_blank"}
 
 ##   <span id="jump">Modules</span>
 * numpy 
