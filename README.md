@@ -13,7 +13,18 @@ and potentially uncover any patterns related to specific call types or areas.
 
 Include a readme file that explains your file structure, how to run your code, and name all third-party modules you are using.
 
-## File Structure
-Our project in based on google colab platform.
+## How to run the code
+Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
 
-* yyy
+## Modules that are used
+* import numpy as np
+import pandas as pd
+import math
+import matplotlib.pyplot as plt
+import calendar
+import seaborn as sns
+import folium
+from IPython.display import display
+from geopy.geocoders import Nominatim
+import time
+from collections import Counter
