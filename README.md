@@ -32,7 +32,13 @@ Write functions to do data cleaning such as empty removal, date_time seperation,
 Apply above functions to data.
 
 ### Part 2: Exploratory data analysis and visualization
-
+* Analysis 1: Call based on year
+* Analysis 2: Call based on month
+* Analysis 3: Call based on days in a week (Monday, Tuesday...)
+* Analysis 4: Call based on hours (1AM-2AM, 2AM-3AM...)
+* Analysis 5: Call type and priority
+* Analysis 6: Disposition
+* Analysis pro: Map visualization
 
 ## How to run the code
 Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
