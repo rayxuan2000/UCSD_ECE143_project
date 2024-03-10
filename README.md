@@ -2,7 +2,6 @@
 
 The dataset source is from: https://data.sandiego.gov/datasets/police-calls-for-service/
 
-
 This project aims to analyze the dataset of police calls for service dispatched by the San Diego Police
 Department’s communications dispatch center. A police call service dataset can provide valuable insights into
 various aspects of public safety, law enforcement, and community well-being. The dataset contains various
@@ -11,9 +10,9 @@ and priority. This enriched dataset can allow us to explore a variety of pattern
 By analyzing this dataset, we aim to identify hotspots for different types of incidents, peak times for calls,
 and potentially uncover any patterns related to specific call types or areas.
 
-Include a readme file that explains your file structure, how to run your code, and name all third-party modules you are using.
+Additional Notes: We used the data from 2019 to 2023, which is huge and cannot be uploaded to repo.
 
-## File Structure
+## File Structure of ECE143_Project.ipynb
 ### Part 0: Initializations and packages import
 #### Initialization
 Install pydrive to load data stored in the Google Drive.
