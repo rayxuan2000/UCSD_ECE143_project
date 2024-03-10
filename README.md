@@ -41,6 +41,7 @@ Apply above functions to data.
 * Analysis 5: Call type and priority
 * Analysis 6: Disposition
 * Analysis pro: Map visualization
+* 
 For Map visualization part, if you could not preview it in ECE143_Project.ipynb, then you need to run the code. The result look like below:
 ![Image Alt Text](https://github.com/rayxuan2000/UCSD_ECE143_project/blob/12cbd05facde7561caa34668568dc7510ad2b28a/additional/map.png)
 
