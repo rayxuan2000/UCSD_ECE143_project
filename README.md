@@ -46,6 +46,8 @@ For Map visualization part, if you could not preview it in ECE143_Project.ipynb,
 ## How to run the code
 Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
 
+[Open HTML file in new window]([https://example.com/path/to/your/file.html](https://github.com/rayxuan2000/UCSD_ECE143_project/blob/949635ac427848f014965080b830618b5d0fd5e6/additional/map_with_legend.html)){:target="_blank"}
+
 ##   <span id="jump">Modules</span>
 * numpy 
 * pandas
