@@ -17,14 +17,14 @@ Include a readme file that explains your file structure, how to run your code, a
 Our project is based on google colab platform. Just open ECE143_Project.ipynb as a jupyter notebook file and run each cell.
 
 ## Modules that are used
-* import numpy as np
-import pandas as pd
-import math
-import matplotlib.pyplot as plt
-import calendar
-import seaborn as sns
-import folium
-from IPython.display import display
-from geopy.geocoders import Nominatim
-import time
-from collections import Counter
+* numpy 
+* pandas
+* math
+* matplotlib.pyplot
+* calendar
+* seaborn
+* folium
+* IPython.display.display
+* geopy.geocoders. Nominatim
+* time
+* collections.Counter
